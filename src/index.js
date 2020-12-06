@@ -97,7 +97,7 @@ const styles = {
 const Example = () => (
   <div style={styles.container}>
     <CRUDTable
-      caption="Tasks"
+      caption="Tasks todo"
       fetchItems={payload => service.fetchItems(payload)}
     >
       <Fields>
