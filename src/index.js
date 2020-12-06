@@ -23,6 +23,11 @@ let tasks = [
     id: 2,
     title: "Improve",
     description: "Improve the component!"
+  },
+  { 
+    id: 3,
+    title: "Practice",
+    description: "Practice all things with fun.."
   }
 ];
 
