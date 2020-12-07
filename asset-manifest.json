@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crud-table/static/css/main.4c55879f.chunk.css",
-    "main.js": "/crud-table/static/js/main.6dcd731e.chunk.js",
-    "main.js.map": "/crud-table/static/js/main.6dcd731e.chunk.js.map",
+    "main.js": "/crud-table/static/js/main.a9080c68.chunk.js",
+    "main.js.map": "/crud-table/static/js/main.a9080c68.chunk.js.map",
     "runtime-main.js": "/crud-table/static/js/runtime-main.eb75fda6.js",
     "runtime-main.js.map": "/crud-table/static/js/runtime-main.eb75fda6.js.map",
     "static/js/2.3815efa5.chunk.js": "/crud-table/static/js/2.3815efa5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.eb75fda6.js",
     "static/js/2.3815efa5.chunk.js",
     "static/css/main.4c55879f.chunk.css",
-    "static/js/main.6dcd731e.chunk.js"
+    "static/js/main.a9080c68.chunk.js"
   ]
 }
